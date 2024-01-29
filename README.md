@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @morgan419119
 - 👀 I’m interested in ...All things Data 
 - 🌱 I’m currently learning ...Applied Data Mining Analysis of Big Data 
-- 💞️ I’m looking to collaborate on ...help me, I am super new
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Morgan.Pritchett@lhh.com
 
 <!---
